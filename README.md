@@ -1,1 +1,1 @@
-# Software security, rootkit
+# Безопасность ПО, руткит
